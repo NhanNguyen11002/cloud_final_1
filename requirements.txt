@@ -1,6 +1,6 @@
 gunicorn
 Flask
-tkinter
+Tkinter
 enum
 random
 typing
